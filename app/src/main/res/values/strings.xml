@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">PendenzenVerwaltung</string>
+    <string name="app_name">Just do it</string>
+    <string name="date">Zu erledigen bis</string>
+    <string name="title">Titel</string>
+    <string name="priority">Dringlichkeit</string>
+    <string name="description">Beschreibung</string>
+    <string name="priority_low">Niedrig</string>
+    <string name="priority_normal">Normal</string>
+    <string name="priority_high">Hoch</string>
+    <string name="placeholder_title">Titel</string>
+    <string name="placeholder_date">25 Mai</string>
+    <string name="save_button_title">Speichern</string>
+    <string name="cancel_button_title">Abbrechen</string>
+    <string name="delete_button_title">Löschen</string>
+    <string name="title_validation">Es wird ein Titel benötigt</string>
+    <string name="description_validation">Es wird eine Beschreibung benötigt</string>
+    <string name="date_validation">Es wird ein Datum benötigt</string>
+    <string name="pendenz_deleted">Pendenz wurde gelöscht</string>
+    <string name="pendenz_created">Pendenz wurde erstellt</string>
+    <string name="pendenz_updated">Pendenz wurde aktualisiert</string>
+
+    <string name="loremipsum">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut l</string>
 </resources>
